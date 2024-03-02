@@ -10,6 +10,8 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV9.png" group-title="RELIGI" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
 
@@ -147,8 +149,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709419402/ei/K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch80.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RbGPNrp/muslimtv-1.png" group-title="RELIGI" ,MUSLIM TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://www.visionplus.id
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSRGf5h/tawaf.png" group-title="RELIGI" ,TAWAF TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id
