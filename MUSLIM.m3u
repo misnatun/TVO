@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+
+====== RELIGI ======
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MQTV.png" group-title="RELIGI" ,MQTV HD
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png" group-title="RELIGI" ,BIN BAZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch22.m3u8
