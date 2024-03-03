@@ -23,9 +23,6 @@ https://flv.intechmedia.net/live/ch26.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV #1
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV #2
-https://streaming.indihometv.com/atm/HLS-10s/rodjatv/playlist.m3u8?enc=x6gd9vnYDxPbDq-O7kitFw&exp=1709444818&encp=kFptpvXd5BDLol5aar41qg&expp=1709455318
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BRTV.png" group-title="RELIGI" ,BRTV HD
 https://e1.siar.us/badartv/live/playlist.m3u8
 
@@ -177,6 +174,18 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709477779/ei/M
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqRHcB0C/GAZWAHTV.png" group-title="RELIGI" ,GAZWAH TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709477405/ei/vTnkZZ7DMMKq1d8P1YeY-A0/ip/103.175.229.44/id/dPRdBbsBy98.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6eca1J-0bobCgaRkeOr4ekhC3l4efo4koLJuBqvBB4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIvkLDnYNES-i7NBjykk-GvmG-vnkWe_-02HfvCn8KBvAiEA6IyAR_3x_M6H0fEy9p0xhMOnpLSXARk-W7o0e3dFkHY%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lontUktoLwkalJ-COE5niSxG6hilj-EHRW8eN3=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,RIFQAN TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709487306/ei/amDkZdfQK-uK3LUPlcKOgAs/ip/103.175.229.44/id/WGo35toJmrY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f4MPrtioX8t-dtpQ7gC1ghRdco71MLM10jM4PwsXN3VTni_T-3GMIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJTExmD-YfnkQIN3UfFhciKuuyEEG8EaOe39FM5Xsp93AiBFfsOKgigHYs26iD9mOIcTTQLlemUSkYhVQZf6q5kInQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MARHABAN TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709487478/ei/FmHkZaePMriE4-EP7NC_sAk/ip/103.175.229.44/id/vPLmg5eZDOg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzXETiGjhgl8JvLNBtgXI17t1xnF0DFHv_1jOUBiaPO8EJO5g6vOdA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDshFMaKRsmE1mfV_tx1M0_K7jcp_O3ZPaoeKMeYZ5vgCIHV-uZouWIIeMGwtpdgDg8BQPBN0KSmU_rCo6BzAoq83/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TARBIYAH SUNNAH
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709487665/ei/0WHkZe-xC9vfz7sP0Nu7qAM/ip/103.175.229.44/id/zWvtFtxtQ4I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-AC0kdSRtSbJl8sEwtpraxo-RM9kYied-5R0SRAofLnQ7-fKiLVbQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgasLez1Ddfbwaouf-vQ93OJQmQykIjp0yOQyKGJW31zICIExGPGRA-fXq_vLEeKx-JMUJvG1hrj_5a82-jB38t0di/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TV 10 HD
+https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
 
 
 
