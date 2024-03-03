@@ -23,6 +23,9 @@ https://flv.intechmedia.net/live/ch26.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV #1
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV #2
+https://streaming.indihometv.com/atm/HLS-10s/rodjatv/playlist.m3u8?enc=x6gd9vnYDxPbDq-O7kitFw&exp=1709444818&encp=kFptpvXd5BDLol5aar41qg&expp=1709455318
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BRTV.png" group-title="RELIGI" ,BRTV HD
 https://e1.siar.us/badartv/live/playlist.m3u8
 
