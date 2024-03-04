@@ -237,3 +237,185 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co/zSy0kcp/wbtv.png" group-title="MOVIE",WARNER TV
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 tvg-id="mycinema.id" tvg-name="My Cinema" tvg-logo="https://iptv.urfan.web.id/logo/mycinema.png" group-title="Film",My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="mycinemaeurope.id" tvg-logo="https://iptv.urfan.web.id/logo/mce.png",My Cinema Europe
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+#EXTINF:-1 tvg-id="myfamilychannel.id" tvg-name="My Family Channel" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="Film",My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png",My Cinema Asia
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+#EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png" group-title="Film",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+
+#EXTINF:-1 group-title="Film" tvg-id="rockentertainment.id" tvg-logo="https://iptv.urfan.web.id/logo/rockent.png",Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Film",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="ccm.hk" tvg-name="Celestial Classic Movies" tvg-logo="https://iptv.urfan.web.id/logo/ccm.png" group-title="Film",Celestial Classic Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="ccm.hk" tvg-name="Celestial Classic Movies" tvg-logo="https://iptv.urfan.web.id/logo/ccm.png" group-title="Film",Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="celestialmoviesindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cm.png",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="celestialmoviesindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cm.png",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="cinemaworld.my" tvg-name="Cinema World" tvg-logo="https://iptv.urfan.web.id/logo/cw.png" group-title="Film",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="cinemaworld.my" tvg-name="Cinema World" tvg-logo="https://iptv.urfan.web.id/logo/cw.png" group-title="Film",Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="cinemaxasia.sg" tvg-logo="https://iptv.urfan.web.id/logo/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/Sx1993wK/Dunia-Sinema.png",Dunia Sinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="Film",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.imgur.com/FbqpsDe.png" group-title="Film",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://iptv.urfan.web.id/logo/hbo.png" group-title="Film",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO Family" tvg-logo="https://iptv.urfan.web.id/logo/hbofam.png" group-title="Film",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO Hits" tvg-logo="https://iptv.urfan.web.id/logo/hbohits.png" group-title="Film",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO Signature" tvg-logo="https://iptv.urfan.web.id/logo/hbosign.png" group-title="Film",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hitsmovies.sg" tvg-name="HITS Movies" tvg-logo="https://iptv.urfan.web.id/logo/hitsmovies.png" group-title="Film",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="hitsmovies.sg" tvg-name="HITS Movies" tvg-logo="https://iptv.urfan.web.id/logo/hitsmovies.png" group-title="Film",HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png",IMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="thrill.hk" tvg-logo="https://iptv.urfan.web.id/logo/thrill.png",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="thrill.hk" tvg-logo="https://iptv.urfan.web.id/logo/thrill.png",Thrill
+#EXTINF:-1 tvg-id="" tvg-name=" like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" tvg-logo="" group-title="others", like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="tvnmoviesasia.hk" tvg-name="tvN Movies" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png" group-title="Film",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+
+#EXTINF:-1 tvg-id="tvnmoviesasia.hk" tvg-name="tvN Movies" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png" group-title="Film",tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-id="zeebioskop.id" tvg-logo="https://iptv.urfan.web.id/logo/zeebi.png",Zee Bioskop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-logo="https://iptv.urfan.web.id/logo/ci.png",Cinemachi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-logo="https://iptv.urfan.web.id/logo/ciaction.png",Cinemachi Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-logo="https://iptv.urfan.web.id/logo/cimax.png",Cinemachi Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#EXTINF:-1 group-title="Film" tvg-logo="https://iptv.urfan.web.id/logo/cixtra.png",Cinemachi Xtra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="others",
