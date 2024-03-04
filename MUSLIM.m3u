@@ -10,14 +10,14 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV9.png" group-title="RELIGI" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD #1
-https://e.siar.us/live/tvmu.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD #1
+https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
