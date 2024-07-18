@@ -284,7 +284,7 @@ https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Al-Iman.jpg" group-title="ARAB" ,ALIMAN
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6"tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
+#EXTINF:-1 tvg-id="6" tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
 https://media2.livaat.com/TAHA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-
