@@ -287,8 +287,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
 https://media2.livaat.com/TAHA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-
-OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0" group-title="ARAB" ,ALMAYADEEN
+#EXTINF:-1 tvg-id="7" tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0" group-title="ARAB" ,ALMAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA
