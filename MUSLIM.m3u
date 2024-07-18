@@ -269,215 +269,215 @@ https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/play
 ##### ARAB #####
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HonwBShHABUWntjbIiEYqk6c1FcgIXnTQUTYkqZpJdJ2f05xRur-9UuH0A84y05qk2umVAoI=s900-c-k-c0x00ffffff-no-rj" group-title="ARAB" ,RAJEEN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://yt3.ggpht.com/HonwBShHABUWntjbIiEYqk6c1FcgIXnTQUTYkqZpJdJ2f05xRur-9UuH0A84y05qk2umVAoI=s900-c-k-c0x00ffffff-no-rj" group-title="ARAB" ,RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/339px-Hala_TV_Logo1.svg.png" group-title="ARAB" ,HALA|PANET
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/339px-Hala_TV_Logo1.svg.png" group-title="ARAB" ,HALA|PANET
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.1195fbe0.png" group-title="ARAB" ,JORDAN
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.1195fbe0.png" group-title="ARAB" ,JORDAN
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://roya.tv/roya.png" group-title="ARAB" ,ROYA|JR
+#EXTINF:-1 tvg-id="4" tvg-logo="https://roya.tv/roya.png" group-title="ARAB" ,ROYA|JR
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Al-Iman.jpg" group-title="ARAB" ,ALIMAN
+#EXTINF:-1 tvg-id="5" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Al-Iman.jpg" group-title="ARAB" ,ALIMAN
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
+#EXTINF:-1 tvg-id="6"tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
 https://media2.livaat.com/TAHA-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-
+#EXTINF:-1 tvg-id="7" tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-
 OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0" group-title="ARAB" ,ALMAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA
+#EXTINF:-1 tvg-id="8" tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|LIVE
+#EXTINF:-1 tvg-id="9" tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|LIVE
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|ENGLISH
+#EXTINF:-1 tvg-id="10" tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|DOC
+#EXTINF:-1 tvg-id="11" tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|DOC
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.1
+#EXTINF:-1 tvg-id="12" tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.1
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.2
+#EXTINF:-1 tvg-id="13" tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg?v=8" group-title="ARAB" ,ALARABY.1
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg?v=8" group-title="ARAB" ,ALARABY.1
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.productionbase.co.uk/RecruiterImage.aspx?ptype=Original&mID=855674" group-title="ARAB" ,ALARABY.2
+#EXTINF:-1 tvg-id="15" tvg-logo="https://www.productionbase.co.uk/RecruiterImage.aspx?ptype=Original&mID=855674" group-title="ARAB" ,ALARABY.2
 http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ahl_alquran.jpg?v=6",S.SAD
+#EXTINF:-1 tvg-id="16" group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ahl_alquran.jpg?v=6",S.SAD
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/makkahtv.jpg?v=6",MAKKAH
+#EXTINF:-1 tvg-id="17" group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/makkahtv.jpg?v=6",MAKKAH
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://alandroidnet.com/images/appsicon/2020/08/screen-5f4039ff65b00.jpg",MBC|5
+#EXTINF:-1 tvg-id="18" group-title="ARAB"  tvg-logo="https://alandroidnet.com/images/appsicon/2020/08/screen-5f4039ff65b00.jpg",MBC|5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://cdn.elwatannews.com/watan/840x473/15754847651576786004.jpg",TEN
+#EXTINF:-1 tvg-id="19" group-title="ARAB"  tvg-logo="https://cdn.elwatannews.com/watan/840x473/15754847651576786004.jpg",TEN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://cdn04.paltoday.ps/ar/uploads/images/Oaxy3.PNG",MBC|MASR(1)
+#EXTINF:-1 tvg-id="20" group-title="ARAB"  tvg-logo="https://cdn04.paltoday.ps/ar/uploads/images/Oaxy3.PNG",MBC|MASR(1)
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
+#EXTINF:-1 tvg-id="21" group-title="ARAB"  tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ_cOHvrvjrhSI3B1aMxzqQ7H6kK6v4za2A&usqp=CAU",MBC|IRAQ
+#EXTINF:-1 tvg-id="22" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ_cOHvrvjrhSI3B1aMxzqQ7H6kK6v4za2A&usqp=CAU",MBC|IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMCiygydsaFx28mOuCgA0-OmJ4KbmZo6Z1g&usqp=CAU",DW|ARABIYA
+#EXTINF:-1 tvg-id="23" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMCiygydsaFx28mOuCgA0-OmJ4KbmZo6Z1g&usqp=CAU",DW|ARABIYA
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIoG6kgOUJgkVA_3q3OzuMMFyTrLw1ylcfw&usqp=CAU",MBC|GOBOX
+#EXTINF:-1 tvg-id="24" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIoG6kgOUJgkVA_3q3OzuMMFyTrLw1ylcfw&usqp=CAU",MBC|GOBOX
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOwh0XOkZvBVZa6qZ4go4-GtOwajjHN4ZSw&usqp=CAU",MBC+|DRAMA
+#EXTINF:-1 tvg-id="25" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOwh0XOkZvBVZa6qZ4go4-GtOwajjHN4ZSw&usqp=CAU",MBC+|DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFHsU-HLg8gskj1NbfttvjkjqULt8LsEbBA&usqp=CAU",BAYNOUNAH
+#EXTINF:-1 tvg-id="26" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFHsU-HLg8gskj1NbfttvjkjqULt8LsEbBA&usqp=CAU",BAYNOUNAH
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCjRrylNTBs3cGXRIbjf9B9tI5wmM6AE_ytw3W5--lYiYm7DNSF34e0z3IHiaRkGBdzE&usqp=CAU",ZEE|AFLAM
+#EXTINF:-1 tvg-id="27" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCjRrylNTBs3cGXRIbjf9B9tI5wmM6AE_ytw3W5--lYiYm7DNSF34e0z3IHiaRkGBdzE&usqp=CAU",ZEE|AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2xQ9hdm7qvWfDSZDs6Ap4alclw2z5VwcSg&usqp=CAU",TRT|SYRIA
+#EXTINF:-1 tvg-id="28" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2xQ9hdm7qvWfDSZDs6Ap4alclw2z5VwcSg&usqp=CAU",TRT|SYRIA
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD-HJ2KedGj7wqOdmZNa1xYBF1bxlxUk_oA&usqp=CAU",IQRAA
+#EXTINF:-1 tvg-id="29" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD-HJ2KedGj7wqOdmZNa1xYBF1bxlxUk_oA&usqp=CAU",IQRAA
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vPLp9lnEWxCzN5XsvNs1UAu-6i7MDInhycrBzjYNdlKB1rJ9cy8CHJOtxxgIYAMLF3E&usqp=CAU",ZEE|ALWAN
+#EXTINF:-1 tvg-id="30" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vPLp9lnEWxCzN5XsvNs1UAu-6i7MDInhycrBzjYNdlKB1rJ9cy8CHJOtxxgIYAMLF3E&usqp=CAU",ZEE|ALWAN
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNqBO9tpD70mTSTC4fCVf9o2u3gVUTLa0kg&usqp=CAU",SHARJAH|SPORT
+#EXTINF:-1 tvg-id="31" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNqBO9tpD70mTSTC4fCVf9o2u3gVUTLa0kg&usqp=CAU",SHARJAH|SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQrIql3aM2LD60Q7eUJBVxK0mRZm6pXqZKQ&usqp=CAU",ATFALWAMAHEB
+#EXTINF:-1 tvg-id="32" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQrIql3aM2LD60Q7eUJBVxK0mRZm6pXqZKQ&usqp=CAU",ATFALWAMAHEB
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtszONkYa8rzHldfLt0SDGgoyAznvb0bHNOQ&usqp=CAU",NOGOUMTV
+#EXTINF:-1 tvg-id="33" group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtszONkYa8rzHldfLt0SDGgoyAznvb0bHNOQ&usqp=CAU",NOGOUMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i.pinimg.com/736x/b3/96/4c/b3964c86bb6e19836a19baec07152bf2.jpg",DIJLAH
+#EXTINF:-1 tvg-id="34" group-title="ARAB"  tvg-logo="https://i.pinimg.com/736x/b3/96/4c/b3964c86bb6e19836a19baec07152bf2.jpg",DIJLAH
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i.pinimg.com/originals/a7/e1/47/a7e147bf74690f3752a219a74f798e40.png",MBC|DRAMA
+#EXTINF:-1 tvg-id="35" group-title="ARAB"  tvg-logo="https://i.pinimg.com/originals/a7/e1/47/a7e147bf74690f3752a219a74f798e40.png",MBC|DRAMA
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i0.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/05/2M_logo.jpg?fit=350,350",2M|MONDE
+#EXTINF:-1 tvg-id="36" group-title="ARAB"  tvg-logo="https://i0.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/05/2M_logo.jpg?fit=350,350",2M|MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://img.youm7.com/large/s92009515137.jpg",ALARABIYA
+#EXTINF:-1 tvg-id="37" group-title="ARAB"  tvg-logo="https://img.youm7.com/large/s92009515137.jpg",ALARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://kl-alarab.com/wp-content/uploads/2021/11/SharjahTVlogo.png",SHARJAH
+#EXTINF:-1 tvg-id="38" group-title="ARAB"  tvg-logo="https://kl-alarab.com/wp-content/uploads/2021/11/SharjahTVlogo.png",SHARJAH
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://muwatin-vpn.net/wp-content/uploads/2021/02/istiqama-LOGO-360x180.jpg",ALISTIQAMA
+#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="https://muwatin-vpn.net/wp-content/uploads/2021/02/istiqama-LOGO-360x180.jpg",ALISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/jo-alerth-alnabawi-tv-8137.jpg",ALERTH|ALNABAWI
+#EXTINF:-1 tvg-id="40" group-title="ARAB"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/jo-alerth-alnabawi-tv-8137.jpg",ALERTH|ALNABAWI
 http://82.212.74.2:8000/live/7307.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(1)
+#EXTINF:-1 tvg-id="41" group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(1)
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(2)
+#EXTINF:-1 tvg-id="42" group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(2)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(3)
+#EXTINF:-1 tvg-id="43" group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(3)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://sba.net.ae/uploads/19/Feb/07/021d93308913984ba52247705a515969457868566d52423966376867716a.png",SHARQIYA
+#EXTINF:-1 tvg-id="44" group-title="ARAB"  tvg-logo="https://sba.net.ae/uploads/19/Feb/07/021d93308913984ba52247705a515969457868566d52423966376867716a.png",SHARQIYA
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON
+#EXTINF:-1 tvg-id="45" group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON.HD
+#EXTINF:-1 tvg-id="46" group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON.HD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://static7.tgstat.ru/channels/_0/19/19811fd65a1b507f8211225450ee4249.jpg",RT|ARABIC
+#EXTINF:-1 tvg-id="47" group-title="ARAB"  tvg-logo="https://static7.tgstat.ru/channels/_0/19/19811fd65a1b507f8211225450ee4249.jpg",RT|ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/60b5dac845.png",OMAN|LIVE
+#EXTINF:-1 tvg-id="48" group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/60b5dac845.png",OMAN|LIVE
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/612f7162ee.png",OMAN|SPORT
+#EXTINF:-1 tvg-id="49" group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/612f7162ee.png",OMAN|SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN
+#EXTINF:-1 tvg-id="50" group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN|CULTURAL
+#EXTINF:-1 tvg-id="51" group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN|CULTURAL
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg",MBC|4
+#EXTINF:-1 tvg-id="52" group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg",MBC|4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",CGTN|ARABIYA
+#EXTINF:-1 tvg-id="53" group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",CGTN|ARABIYA
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1
+#EXTINF:-1 tvg-id="54" group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1(HD)
+#EXTINF:-1 tvg-id="55" group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1(HD)
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg",ALHADATH
+#EXTINF:-1 tvg-id="56" group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg",ALHADATH
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3
+#EXTINF:-1 tvg-id="57" group-title="ARAB"  tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",YEMEN|SHABAB
+#EXTINF:-1 tvg-id="58" group-title="ARAB"  tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",YEMEN|SHABAB
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.alnbras.net/wp-content/uploads/2020/12/spacetoon.jpg",SPACETOON
+#EXTINF:-1 tvg-id="59" group-title="ARAB"  tvg-logo="https://www.alnbras.net/wp-content/uploads/2020/12/spacetoon.jpg",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN
+#EXTINF:-1 tvg-id="60" group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|INTERNATIONAL
+#EXTINF:-1 tvg-id="61" group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|INTERNATIONAL
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|QURAAN
+#EXTINF:-1 tvg-id="62" group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|QURAAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.1
+#EXTINF:-1 tvg-id="63" group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.2
+#EXTINF:-1 tvg-id="64" group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2016/09/Sky-News-Arabia-Live-2.png",SKY.NEWS|AR
+#EXTINF:-1 tvg-id="65" group-title="ARAB"  tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2016/09/Sky-News-Arabia-Live-2.png",SKY.NEWS|AR
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.ml7z.com/wp-content/uploads/2018/02/18-54.jpg",MBC|MASR(2)
+#EXTINF:-1 tvg-id="66" group-title="ARAB"  tvg-logo="https://www.ml7z.com/wp-content/uploads/2018/02/18-54.jpg",MBC|MASR(2)
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?HasBahCa
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNRB586MkQeIA2i33AnpiXdZRPW6WSg61xrRBm=s900-c-k-c0x00ffffff-no-rj",ALSHARQ|NEWS
+#EXTINF:-1 tvg-id="67" group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNRB586MkQeIA2i33AnpiXdZRPW6WSg61xrRBm=s900-c-k-c0x00ffffff-no-rj",ALSHARQ|NEWS
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR5aFsCx9BdCibH2qaiaI7HIQZ_vIwUjxXxy1LT=s900-c-k-c0x00ffffff-no-rj",ALWOUSTA
+#EXTINF:-1 tvg-id="68" group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR5aFsCx9BdCibH2qaiaI7HIQZ_vIwUjxXxy1LT=s900-c-k-c0x00ffffff-no-rj",ALWOUSTA
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPJsNevEwF_mP_uWiJZEyL2tD0QLwhp7oOhSwg0w=s900-c-k-c0x00ffffff-no-rj",WANASAH
+#EXTINF:-1 tvg-id="69" group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPJsNevEwF_mP_uWiJZEyL2tD0QLwhp7oOhSwg0w=s900-c-k-c0x00ffffff-no-rj",WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
+#EXTINF:-1 tvg-id="70" group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
 
@@ -596,36 +596,51 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="FILM" ,IMC
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0 tvg-id="15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLG--iJaseh71v3IXL8SmwiXRyUSyIho3wg&usqp=CAU" group-title="FILM",IMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="16" tvg-id="thrill.hk" tvg-logo="https://iptv.urfan.web.id/logo/thrill.png" group-title="FILM",THRILL
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-id="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="FILM", THRILL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png" group-title="FILM",TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-id="zeebioskop.id" tvg-logo="https://iptv.urfan.web.id/logo/zeebi.png" group-title="FILM",ZEE BIOSKOP
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-id="18" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="FILM",ZEE BIOSKOP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://iptv.urfan.web.id/logo/ci.png" group-title="FILM",CINEMACHI
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:-1 tvg-id="19" tvg-logo="https://www.visionplus.id/images/repository/965/49965-SNAPSHOT-m.png" group-title="FILM",CINEMACHI HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://iptv.urfan.web.id/logo/ciaction.png" group-title="FILM",CINEMACHI ACTION
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+#EXTINF:-1 tvg-id="20" tvg-logo="https://www.visionplus.id/images/repository/980/49980-SNAPSHOT-m.png" group-title="FILM",CINEMACHI ACTION HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="21" tvg-logo="https://iptv.urfan.web.id/logo/cimax.png" group-title="FILM",CINEMACHI MAX
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+#EXTINF:-1 tvg-id="21" tvg-logo="https://www.visionplus.id/images/repository/977/49977-SNAPSHOT-m.png" group-title="FILM",CINEMACHI MAX HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://iptv.urfan.web.id/logo/cixtra.png" group-title="FILM",CINEMACHI XTRA
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.visionplus.id/images/repository/969/49969-SNAPSHOT-m.png" group-title="FILM",CINEMACHI XTRA HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
 
 
