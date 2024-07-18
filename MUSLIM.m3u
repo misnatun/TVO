@@ -27,9 +27,10 @@ https://flv.intechmedia.net/live/ch26.m3u8
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BRTV.png" group-title="RELIGI" ,BRTV HD
-https://e1.siar.us/badartv/live/playlist.m3u8
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PUJA_TV.png" group-title="RELIGI" ,PUJA TV ACEH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PUJA_TV.png" group-title="RELIGI" ,PUJA TV ACEH OFF
 https://v6.siar.us/pujatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_WAFA.png" group-title="RELIGI" ,AL WAFA TARIM
@@ -48,7 +49,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,AL QURAN KAREEM
-https://edge.taghtia.com/sa/7.m3u8
+https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8
+#https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/ARTVISI.png" group-title="RELIGI" ,ARTVISI AUDIO
 https://streaming.yufid.com/hls/artvisi.m3u8
@@ -124,7 +126,7 @@ https://ythls-v2.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
 https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png" group-title="RELIGI", AL-FURQON TV #1
-https://ythls-v2.onrender.com/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
+https://ythls-v3.onrender.com/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png" group-title="RELIGI" ,MGI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -152,7 +154,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|re
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSRGf5h/tawaf.png" group-title="RELIGI" ,TAWAF TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVy5Z8p/ADITV.png" group-title="RELIGI" ,ADI TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVy5Z8p/ADITV.png" group-title="RELIGI" ,ADI TV OFF
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/0nGtHcwRo2VO6Y55NrTd_w9Ls8P1nN50VAirE?io=true&size=avatar-v3_0" group-title="RELIGI" ,MADANI TV
@@ -173,92 +175,313 @@ https://flv.intechmedia.net/live/ch20.m3u8
 https://flv.intechmedia.net/live/ch7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png" group-title="RELIGI" ,MTA HD
-https://ythls.armelin.one/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+https://ythls-v3.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+#https://ythls.armelin.one/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGgWbYH/SRBTV.png" group-title="RELIGI" ,SRB
-https://ythls.armelin.one/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+https://ythls-v3.onrender.com/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+#https://ythls.armelin.one/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KC-XcmKw1a2Yb1lf3WXZieK1oQ7t-bGMFuO2b4cREJ-d9nz6UNKo3ZSUas8E-4f5TpjF=w240-h480-rw" group-title="RELIGI" ,KHB
-https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
+https://ythls-v3.onrender.com/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
+#https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pL-RMtUp0d5_y8gw-HaR9UzyPUUUfK_RZNdk8gM6uTbLJ7eo1IDR5WnAKhYISyRsm6cs9sMx0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,GAZWAH TV
-#https://ythls.armelin.one/channel/UCD2OdkHPO_t0MZEbmb3cioQ.m3u8
-https://ythls-v2.onrender.com/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
+https://ythls-v3.onrender.com/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lontUktoLwkalJ-COE5niSxG6hilj-EHRW8eN3=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,RIFQAN TV
-https://ythls.armelin.one/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
+https://ythls-v3.onrender.com/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
+#https://ythls.armelin.one/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MARHABAN TV
-https://ythls.armelin.one/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
+https://ythls-v3.onrender.com/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
+#https://ythls.armelin.one/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TARBIYAH SUNNAH
-https://ythls.armelin.one/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+https://ythls-v3.onrender.com/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+#https://ythls.armelin.one/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="RELIGI", UFA TV HD
-https://ythls-v2.onrender.com/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
+https://ythls-v3.onrender.com/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
-https://ythls-v2.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,LIVE MADINAH
-https://ythls-v2.onrender.com/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+https://ythls-v3.onrender.com/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuO9InXpa7jD6xvGWYIuwZxzTSm4opVW9LIZifOA=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MTA INTERNATIONAL
-https://ythls-v2.onrender.com/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8
+https://ythls-v3.onrender.com/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_fYMMroSln1Bna7JgzCIy-TfqxnjYwENndjdU2FIgtUvDcvl-H5zxqtp1MkdhhLZxBFGd1s7Gg=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MAFAZA TV
-https://ythls-v2.onrender.com/channel/UCw2g4x5EiIzt7-hMj3OhWQQ.m3u8
+https://ythls-v3.onrender.com/channel/UCw2g4x5EiIzt7-hMj3OhWQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SLO1BHsozTukU3bf5gNmnQOn59jiwRSukJ4hiV9LYHXVoXioLu9hLyN1qibaK_3aFbtKbSyU2A=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,KISAH QURAN
-https://ythls-v2.onrender.com/channel/UCLxetTGPN9yOn1gS1gClYgw.m3u8
+https://ythls-v3.onrender.com/channel/UCLxetTGPN9yOn1gS1gClYgw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ao3qa93cinfsR5ec2IwMU-dwx-LPAqku0i4VIzvZizHLVaivx4YOf1JZ802QZvH2ht4VEZzuRA=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TADDABUR DAILY
-https://ythls-v2.onrender.com/channel/UCyMEcE5_blYmWE2H5NbDr0w.m3u8
+https://ythls-v3.onrender.com/channel/UCyMEcE5_blYmWE2H5NbDr0w.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,LAFADZ DOA
-https://ythls-v2.onrender.com/channel/UCN2ySyRgxARVmENnOZ70rbg.m3u8
+https://ythls-v3.onrender.com/channel/UCN2ySyRgxARVmENnOZ70rbg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-6BKynOcUK6oFVbguQO1sINgY2B-KnqGy8lUCZc0vj-Kdkek9LvYk2Sl9yIIVupn3jlO5hxd=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,RAHMAN TV
-https://ythls-v2.onrender.com/channel/UCkNWh4RhKRtI5LVBv_-LlYQ.m3u8
+https://ythls-v3.onrender.com/channel/UCkNWh4RhKRtI5LVBv_-LlYQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9tHnuUDsT-txQ6NAabJAziPdmJ4NaZ0ujtbQ4nCHr9zcpT8Wzmp38j1xjdy08kfIQA" group-title="RELIGI" ,RIKO MURROTAL LIVE
-https://ythls-v2.onrender.com/channel/UCHzkGRP2y-3QJQWzVkHNGgg.m3u8
+https://ythls-v3.onrender.com/channel/UCHzkGRP2y-3QJQWzVkHNGgg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g9xNRxAnDVRSFpYYtMF_eYfqY4-_JrUXLtlKwKE5CmVBV7t6_if7q5iUsPLDa4Ffa6U7k8n9=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,SEYEGAN TV
-https://ythls-v2.onrender.com/channel/UC3TZXKcQ64uCtFWksEfIw0w.m3u8
+https://ythls-v3.onrender.com/channel/UC3TZXKcQ64uCtFWksEfIw0w.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98su7Yn0wuDnrRTEk5X5iktMZexBLztjbc1S773XPzCSbh-VwpBa4sv5fe9itpzU34ODtxsc=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ZAD TV
-https://ythls-v2.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
+https://ythls-v3.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D7J8o5VJuSvIomIAQkNHKmJfU1d1PGdsucIAFngN8QUov3vA2usaGuK6Hxn8sXL9wbiTNF6Ojw=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,AL HADATH
-https://ythls-v2.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
+https://ythls-v3.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6wh3wbMTas_FiOfcuyU-a-PSL62aeOzoNM-MDyJiUIr8HfINr_kqQlMvgYpjdi5hkVJMR7oo=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,SKY NEWS ARABIA
-https://ythls-v2.onrender.com/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+https://ythls-v3.onrender.com/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3fhJuczWLOOK0Jl5C54_JzyEJNJWg4C0ilpPv2KZX3kuDYwxA5y4ddyfMA95g7YlKvJAHwvUc6A=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,AL ARABY TV
-https://ythls-v2.onrender.com/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
+https://ythls-v3.onrender.com/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1Lqx8C_-6YmlYZJzuO4LF9mwSG86PZCcILvPF=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ASHARQ NEWS
-https://ythls-v2.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+https://ythls-v3.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALJAEERA MUBASHER
-https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
+https://ythls-v3.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_meB-osCFOSmKDQg3EswKeqcXbOgMRh2Qycp4uicQ=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,AL ARABIYA
-https://ythls-v2.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8
+https://ythls-v3.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQMCQE2zTAa5kdtkslPMZ1Nm1ipEu4wCkFCJAr=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALHURRA TV
-https://ythls-v2.onrender.com/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
+https://ythls-v3.onrender.com/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRmgJoxbcttRENxM66RKMhH7kX1UIOvYMehVQFiw=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALHURRA IRAQ
-https://ythls-v2.onrender.com/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
+https://ythls-v3.onrender.com/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Yf-jA9RYtL1JsCEu9NuKqME-3B4ugngckm6Y41eKZzPGR82OL_44CUp9SZSflrtkHA" group-title="RELIGI" ,JADWAL IMSAK 2024
-https://ythls-v2.onrender.com/channel/UC-AK5OD7V_DlveE55DzT-wg.m3u8
+https://ythls-v3.onrender.com/channel/UC-AK5OD7V_DlveE55DzT-wg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TV 10 HD
 https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
+
+
+
+##### ARAB #####
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HonwBShHABUWntjbIiEYqk6c1FcgIXnTQUTYkqZpJdJ2f05xRur-9UuH0A84y05qk2umVAoI=s900-c-k-c0x00ffffff-no-rj" group-title="ARAB" ,RAJEEN
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/339px-Hala_TV_Logo1.svg.png" group-title="ARAB" ,HALA|PANET
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.1195fbe0.png" group-title="ARAB" ,JORDAN
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://roya.tv/roya.png" group-title="ARAB" ,ROYA|JR
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Al-Iman.jpg" group-title="ARAB" ,ALIMAN
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alandroidnet.com/thumbnail?src=app-img/app_image_big_5213.jpg" group-title="ARAB" ,TAHA|KIDS
+https://media2.livaat.com/TAHA-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-
+OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0" group-title="ARAB" ,ALMAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|LIVE
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg" group-title="ARAB" ,ALJAZEERA|DOC
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.lusailnews.net/get/image/20220707_1657216331-476-large.jpg" group-title="ARAB" ,QATAR.2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg?v=8" group-title="ARAB" ,ALARABY.1
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.productionbase.co.uk/RecruiterImage.aspx?ptype=Original&mID=855674" group-title="ARAB" ,ALARABY.2
+http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ahl_alquran.jpg?v=6",S.SAD
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/makkahtv.jpg?v=6",MAKKAH
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://alandroidnet.com/images/appsicon/2020/08/screen-5f4039ff65b00.jpg",MBC|5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://cdn.elwatannews.com/watan/840x473/15754847651576786004.jpg",TEN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://cdn04.paltoday.ps/ar/uploads/images/Oaxy3.PNG",MBC|MASR(1)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ_cOHvrvjrhSI3B1aMxzqQ7H6kK6v4za2A&usqp=CAU",MBC|IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMCiygydsaFx28mOuCgA0-OmJ4KbmZo6Z1g&usqp=CAU",DW|ARABIYA
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIoG6kgOUJgkVA_3q3OzuMMFyTrLw1ylcfw&usqp=CAU",MBC|GOBOX
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOwh0XOkZvBVZa6qZ4go4-GtOwajjHN4ZSw&usqp=CAU",MBC+|DRAMA
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFHsU-HLg8gskj1NbfttvjkjqULt8LsEbBA&usqp=CAU",BAYNOUNAH
+https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCjRrylNTBs3cGXRIbjf9B9tI5wmM6AE_ytw3W5--lYiYm7DNSF34e0z3IHiaRkGBdzE&usqp=CAU",ZEE|AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2xQ9hdm7qvWfDSZDs6Ap4alclw2z5VwcSg&usqp=CAU",TRT|SYRIA
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD-HJ2KedGj7wqOdmZNa1xYBF1bxlxUk_oA&usqp=CAU",IQRAA
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vPLp9lnEWxCzN5XsvNs1UAu-6i7MDInhycrBzjYNdlKB1rJ9cy8CHJOtxxgIYAMLF3E&usqp=CAU",ZEE|ALWAN
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNqBO9tpD70mTSTC4fCVf9o2u3gVUTLa0kg&usqp=CAU",SHARJAH|SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQrIql3aM2LD60Q7eUJBVxK0mRZm6pXqZKQ&usqp=CAU",ATFALWAMAHEB
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtszONkYa8rzHldfLt0SDGgoyAznvb0bHNOQ&usqp=CAU",NOGOUMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i.pinimg.com/736x/b3/96/4c/b3964c86bb6e19836a19baec07152bf2.jpg",DIJLAH
+https://ghaasiflu.online/Dijlah/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i.pinimg.com/originals/a7/e1/47/a7e147bf74690f3752a219a74f798e40.png",MBC|DRAMA
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://i0.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/05/2M_logo.jpg?fit=350,350",2M|MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://img.youm7.com/large/s92009515137.jpg",ALARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://kl-alarab.com/wp-content/uploads/2021/11/SharjahTVlogo.png",SHARJAH
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://muwatin-vpn.net/wp-content/uploads/2021/02/istiqama-LOGO-360x180.jpg",ALISTIQAMA
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/jo-alerth-alnabawi-tv-8137.jpg",ALERTH|ALNABAWI
+http://82.212.74.2:8000/live/7307.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(1)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(2)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://qanawat.taghtia.com/assets/channels/dubai-sports-2.png",DUBAI|SPORT(3)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://sba.net.ae/uploads/19/Feb/07/021d93308913984ba52247705a515969457868566d52423966376867716a.png",SHARQIYA
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON.HD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://static7.tgstat.ru/channels/_0/19/19811fd65a1b507f8211225450ee4249.jpg",RT|ARABIC
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/60b5dac845.png",OMAN|LIVE
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/612f7162ee.png",OMAN|SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN|CULTURAL
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg",MBC|4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",CGTN|ARABIYA
+http://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1(HD)
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg",ALHADATH
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",YEMEN|SHABAB
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.alnbras.net/wp-content/uploads/2020/12/spacetoon.jpg",SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|INTERNATIONAL
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|QURAAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2016/09/Sky-News-Arabia-Live-2.png",SKY.NEWS|AR
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://www.ml7z.com/wp-content/uploads/2018/02/18-54.jpg",MBC|MASR(2)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?HasBahCa
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNRB586MkQeIA2i33AnpiXdZRPW6WSg61xrRBm=s900-c-k-c0x00ffffff-no-rj",ALSHARQ|NEWS
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR5aFsCx9BdCibH2qaiaI7HIQZ_vIwUjxXxy1LT=s900-c-k-c0x00ffffff-no-rj",ALWOUSTA
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPJsNevEwF_mP_uWiJZEyL2tD0QLwhp7oOhSwg0w=s900-c-k-c0x00ffffff-no-rj",WANASAH
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="ARAB"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
 
 
