@@ -840,11 +840,11 @@ https://pull.niues.live/live/stream-351530_lhd.m3u8
 https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1722110299-0-0-681d6abc8436b5ccb0b1762547a34231
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://pull.niues.live/live/stream-414317_lhd.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://pull.niues.live/live/stream-462413_lhd.m3u8
 
 
