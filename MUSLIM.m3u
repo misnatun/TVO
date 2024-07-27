@@ -816,27 +816,35 @@ https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-9912043_lhd.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-351530_lhd.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-479849_lhd.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-427856_lhd.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-351530_lhd.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-9912050_lhd.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-414317_lhd.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-462413_lhd.m3u8
 
 
