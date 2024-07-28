@@ -840,36 +840,76 @@ https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912043_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
+https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-351530_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
+https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-479849_lhd.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-427856_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
+https://d10snd9om7537l.cloudfront.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-351530_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
+https://d19h5fcpqoh625.cloudfront.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1722110299-0-0-681d6abc8436b5ccb0b1762547a34231
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://pull.niues.live/live/stream-414317_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
+https://do2ibj89ih8kz.cloudfront.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.itworks.id/wp-content/uploads/2024/07/Olimpiade-Paris-2024.jpg" group-title="OLYMPIC PARIS ",OLYMPIC PARIS 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://pull.niues.live/live/stream-462413_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
+https://d19h5fcpqoh625.cloudfront.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",MEDIACORP LIVE 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
+https://d19h5fcpqoh625.cloudfront.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",CA Sportsnet 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS",CA Sportsnet World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
+https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
 
 
