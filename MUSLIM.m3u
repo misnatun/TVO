@@ -545,6 +545,14 @@ https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co.com/6FBywQv/RTV.png" group-title="NASIONAL", RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co.com/6FBywQv/RTV.png" group-title="NASIONAL", RTV 1
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -557,7 +565,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="12" group-title="NASIONAL" tvg-logo="https://thumb.viva.id/intipseleb/1265x711/2023/10/06/651f4364392df-vtv.jpg",VTV
+#EXTINF:-1 tvg-id="12" group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/nCsWg2P/VTV.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
@@ -572,9 +580,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/ochannel.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co.com/yNK0TD1/MOJI.png" group-title="NASIONAL", MOJI FHD 1
-http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBTNYp5oEO-848I8lDPE46B8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" group-title="NASIONAL", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
