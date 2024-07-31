@@ -497,11 +497,10 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 5
-https://lebo.huminbird.cn/sd-6MsGQ7PrqS4Mr2ZiUv.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 6
-https://pull.niues.live/live/stream-462413_lsd.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/endosiar.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" group-title="NASIONAL",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
