@@ -473,16 +473,26 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722441758~acl=/drm/dash/*~id=164396008~hmac=4cae107b5c9866a8fb661c16c5a982af30f6fb2ca265b59b6dd28ac99dd47a3b
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 1
+http://iptvkita.my.id:25461/Wongndeso/Asd123/3
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 2
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
@@ -508,10 +518,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="NASIONAL",SCTV
+http://iptvkita.my.id:25461/Wongndeso/Asd123/4
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="NASIONAL",SCTV 1
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="NASIONAL",SCTV FHD
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="NASIONAL",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
