@@ -497,6 +497,12 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 5
+https://lebo.huminbird.cn/sd-6MsGQ7PrqS4Mr2ZiUv.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 6
+https://pull.niues.live/live/stream-462413_lsd.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" group-title="NASIONAL",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
