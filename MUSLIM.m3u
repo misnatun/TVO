@@ -497,7 +497,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 4
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
