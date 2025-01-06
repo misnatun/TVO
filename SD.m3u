@@ -2,8 +2,21 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml"
 
+
 ====== RELIGI ======
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,LIVE MADINAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsXRxHQd/DEIKIDSTV.png" group-title="RELIGI" ,DEI KIDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://e.siar.us/live/deikidstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
@@ -37,9 +50,10 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuhammadiyahnow.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD #1
 https://e.siar.us/live/tvmu.m3u8
@@ -55,9 +69,6 @@ https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PUJA_TV.png" group-title="RELIGI" ,PUJA TV ACEH OFF
-https://v6.siar.us/pujatv/live/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_WAFA.png" group-title="RELIGI" ,AL WAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
@@ -67,18 +78,23 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/INSPIRA_TV.png" group-title="RELIGI" ,INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,AL SUNNAH NABAWI
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/WESAL_TV.png" group-title="RELIGI" ,WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,AL QURAN KAREEM
-https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8
-#https://edge.taghtia.com/sa/7.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/ARTVISI.png" group-title="RELIGI" ,ARTVISI AUDIO
 https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="RELIGI" ,INJANI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch32.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="RELIGI" ,PALIKO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch31.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="RELIGI" ,WALAD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/INSAN_TV.png" group-title="RELIGI" ,INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -99,14 +115,6 @@ https://flv.intechmedia.net/live/ch4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png" group-title="RELIGI" ,RASYAAD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch6.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png" group-title="RELIGI" ,RASYAAD TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://ythls.kekikakademi.org/youtube/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png" group-title="RELIGI" ,HIJRAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch8.m3u8
@@ -119,25 +127,9 @@ https://flv.intechmedia.net/live/ch9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch10.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/SALAM_TV.png" group-title="RELIGI" ,SALAM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch12.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,LIVE MADINAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch13.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch14.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PULDAPII_TV.png" group-title="RELIGI" ,PULDAPII TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch15.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png" group-title="RELIGI" ,TV SUNNAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch16.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png" group-title="RELIGI" ,BIN BAZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -146,16 +138,6 @@ https://flv.intechmedia.net/live/ch22.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png" group-title="RELIGI" ,MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch23.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png" group-title="RELIGI" ,MEDS TV #1
-https://ythls-v2.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png" group-title="RELIGI" ,AL-FURQON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://flv.intechmedia.net/live/ch24.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png" group-title="RELIGI", AL-FURQON TV #1
-https://ythls.kekikakademi.org/youtube/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png" group-title="RELIGI" ,MGI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -169,13 +151,6 @@ https://flv.intechmedia.net/live/ch28.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch17.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsXRxHQd/DEIKIDSTV.png" group-title="RELIGI" ,DEI KIDS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://e.siar.us/live/deikidstv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVy5Z8p/ADITV.png" group-title="RELIGI" ,ADI TV OFF
-https://v2.siar.us/aditv/livestream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/0nGtHcwRo2VO6Y55NrTd_w9Ls8P1nN50VAirE?io=true&size=avatar-v3_0" group-title="RELIGI" ,MADANI TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
@@ -183,87 +158,162 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch7.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png" group-title="RELIGI" ,RASYAAD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch6.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/SALAM_TV.png" group-title="RELIGI" ,SALAM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png" group-title="RELIGI" ,TV SUNNAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch16.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png" group-title="RELIGI" ,AL-FURQON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://flv.intechmedia.net/live/ch24.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PUJA_TV.png" group-title="RELIGI" ,PUJA TV ACEH OFF
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVy5Z8p/ADITV.png" group-title="RELIGI" ,ADI TV OFF
+https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BINA_MADANI_TV.png" group-title="RELIGI" ,BINA MADANI OFF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch20.m3u8
 
 
+##### YTOFF #####
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png" group-title="YT" ,MTA HD OFF
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RASYAAD_TV.png" group-title="YTOFF" ,RASYAAD TV 1 OFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://ythls.kekikakademi.org/youtube/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png" group-title="YTOFF" ,MEDS TV #1 OFF
+https://ythls-v2.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png" group-title="YTOFF", AL-FURQON TV #1 OFF
+https://ythls.kekikakademi.org/youtube/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png" group-title="YTOFF" ,MTA HD OFF
 https://ythls.kekikakademi.org/youtube/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 #https://ythls.armelin.one/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGgWbYH/SRBTV.png" group-title="YT" ,SRB OFF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGgWbYH/SRBTV.png" group-title="YTOFF" ,SRB OFF
 https://ythls.kekikakademi.org/youtube/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 #https://ythls.armelin.one/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KC-XcmKw1a2Yb1lf3WXZieK1oQ7t-bGMFuO2b4cREJ-d9nz6UNKo3ZSUas8E-4f5TpjF=w240-h480-rw" group-title="YT" ,KHB OFF
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KC-XcmKw1a2Yb1lf3WXZieK1oQ7t-bGMFuO2b4cREJ-d9nz6UNKo3ZSUas8E-4f5TpjF=w240-h480-rw" group-title="YTOFF" ,KHB OFF
 https://ythls.kekikakademi.org/youtube/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 #https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pL-RMtUp0d5_y8gw-HaR9UzyPUUUfK_RZNdk8gM6uTbLJ7eo1IDR5WnAKhYISyRsm6cs9sMx0A=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,GAZWAH TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pL-RMtUp0d5_y8gw-HaR9UzyPUUUfK_RZNdk8gM6uTbLJ7eo1IDR5WnAKhYISyRsm6cs9sMx0A=s900-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,GAZWAH TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,MARHABAN TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,MARHABAN TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
 #https://ythls.armelin.one/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,TARBIYAH SUNNAH OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,TARBIYAH SUNNAH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 #https://ythls.armelin.one/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="YT", UFA TV HD OFF
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="YTOFF", UFA TV HD OFF
 https://ythls.kekikakademi.org/youtube/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="YT" ,LIVE MAKKAH OFF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="YTOFF" ,LIVE MAKKAH OFF
 https://ythls.kekikakademi.org/youtube/video/Kt7hKHlArl8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="YT" ,LIVE MADINAH OFF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="YTOFF" ,LIVE MADINAH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuO9InXpa7jD6xvGWYIuwZxzTSm4opVW9LIZifOA=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,MTA INTERNATIONAL OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuO9InXpa7jD6xvGWYIuwZxzTSm4opVW9LIZifOA=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,MTA INTERNATIONAL OFF
 https://ythls.kekikakademi.org/youtube/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_fYMMroSln1Bna7JgzCIy-TfqxnjYwENndjdU2FIgtUvDcvl-H5zxqtp1MkdhhLZxBFGd1s7Gg=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,MAFAZA TV EVENT ONLY OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_fYMMroSln1Bna7JgzCIy-TfqxnjYwENndjdU2FIgtUvDcvl-H5zxqtp1MkdhhLZxBFGd1s7Gg=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,MAFAZA TV EVENT ONLY OFF
 https://ythls.kekikakademi.org/youtube/channel/UCw2g4x5EiIzt7-hMj3OhWQQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SLO1BHsozTukU3bf5gNmnQOn59jiwRSukJ4hiV9LYHXVoXioLu9hLyN1qibaK_3aFbtKbSyU2A=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,KISAH QURAN EVENT ONLY OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SLO1BHsozTukU3bf5gNmnQOn59jiwRSukJ4hiV9LYHXVoXioLu9hLyN1qibaK_3aFbtKbSyU2A=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,KISAH QURAN EVENT ONLY OFF
 https://ythls.kekikakademi.org/youtube/channel/UCLxetTGPN9yOn1gS1gClYgw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,LAFADZ DOA OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,LAFADZ DOA OFF
 https://ythls.kekikakademi.org/youtube/channel/UCN2ySyRgxARVmENnOZ70rbg.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9tHnuUDsT-txQ6NAabJAziPdmJ4NaZ0ujtbQ4nCHr9zcpT8Wzmp38j1xjdy08kfIQA" group-title="YT" ,RIKO MURROTAL LIVE OFF
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9tHnuUDsT-txQ6NAabJAziPdmJ4NaZ0ujtbQ4nCHr9zcpT8Wzmp38j1xjdy08kfIQA" group-title="YTOFF" ,RIKO MURROTAL LIVE OFF
 https://ythls.kekikakademi.org/youtube/channel/UCHzkGRP2y-3QJQWzVkHNGgg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g9xNRxAnDVRSFpYYtMF_eYfqY4-_JrUXLtlKwKE5CmVBV7t6_if7q5iUsPLDa4Ffa6U7k8n9=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,SEYEGAN TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g9xNRxAnDVRSFpYYtMF_eYfqY4-_JrUXLtlKwKE5CmVBV7t6_if7q5iUsPLDa4Ffa6U7k8n9=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,SEYEGAN TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC3TZXKcQ64uCtFWksEfIw0w.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98su7Yn0wuDnrRTEk5X5iktMZexBLztjbc1S773XPzCSbh-VwpBa4sv5fe9itpzU34ODtxsc=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ZAD TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98su7Yn0wuDnrRTEk5X5iktMZexBLztjbc1S773XPzCSbh-VwpBa4sv5fe9itpzU34ODtxsc=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,ZAD TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D7J8o5VJuSvIomIAQkNHKmJfU1d1PGdsucIAFngN8QUov3vA2usaGuK6Hxn8sXL9wbiTNF6Ojw=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,AL HADATH OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D7J8o5VJuSvIomIAQkNHKmJfU1d1PGdsucIAFngN8QUov3vA2usaGuK6Hxn8sXL9wbiTNF6Ojw=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,AL HADATH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6wh3wbMTas_FiOfcuyU-a-PSL62aeOzoNM-MDyJiUIr8HfINr_kqQlMvgYpjdi5hkVJMR7oo=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,SKY NEWS ARABIA OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6wh3wbMTas_FiOfcuyU-a-PSL62aeOzoNM-MDyJiUIr8HfINr_kqQlMvgYpjdi5hkVJMR7oo=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,SKY NEWS ARABIA OFF
 https://ythls.kekikakademi.org/youtube/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3fhJuczWLOOK0Jl5C54_JzyEJNJWg4C0ilpPv2KZX3kuDYwxA5y4ddyfMA95g7YlKvJAHwvUc6A=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,AL ARABY TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3fhJuczWLOOK0Jl5C54_JzyEJNJWg4C0ilpPv2KZX3kuDYwxA5y4ddyfMA95g7YlKvJAHwvUc6A=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,AL ARABY TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1Lqx8C_-6YmlYZJzuO4LF9mwSG86PZCcILvPF=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ASHARQ NEWS OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1Lqx8C_-6YmlYZJzuO4LF9mwSG86PZCcILvPF=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,ASHARQ NEWS OFF
 https://ythls.kekikakademi.org/youtube/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALJAEERA MUBASHER OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,ALJAEERA MUBASHER OFF
 https://ythls.kekikakademi.org/youtube/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQMCQE2zTAa5kdtkslPMZ1Nm1ipEu4wCkFCJAr=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALHURRA TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQMCQE2zTAa5kdtkslPMZ1Nm1ipEu4wCkFCJAr=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,ALHURRA TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRmgJoxbcttRENxM66RKMhH7kX1UIOvYMehVQFiw=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALHURRA IRAQ OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRmgJoxbcttRENxM66RKMhH7kX1UIOvYMehVQFiw=s176-c-k-c0x00ffffff-no-rj" group-title="YTOFF" ,ALHURRA IRAQ OFF
 https://ythls.kekikakademi.org/youtube/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
+
+
+##### DAERAH #####
+
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,DHONO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch95.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,CAMPUS UPDATE CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch96.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,RUAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch81.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch62.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,SAMPIT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch56.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,RB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch59.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,BETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch58.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="DAERAH" ,DM TV MALANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch51.m3u8
+
+
+
+
+
 
 
 
