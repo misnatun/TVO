@@ -5,6 +5,30 @@
 ====== RELIGI ======
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbGPNrp/muslimtv-1.png" group-title="RELIGI ",MNC MUSLIM
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSRGf5h/tawaf.png " group-title=" RELIGI",TAWAF TV
+https://cempedak-cdn-fly.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGI", KHAZANAH TV
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TV 10 HD
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+#https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV9.png" group-title="RELIGI" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
@@ -146,114 +170,97 @@ https://flv.intechmedia.net/live/ch17.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://e.siar.us/live/deikidstv.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RbGPNrp/muslimtv-1.png" group-title="RELIGI ",MNC MUSLIM
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSRGf5h/tawaf.png " group-title=" RELIGI",TAWAF TV
-https://cempedak-cdn-fly.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVy5Z8p/ADITV.png" group-title="RELIGI" ,ADI TV OFF
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/0nGtHcwRo2VO6Y55NrTd_w9Ls8P1nN50VAirE?io=true&size=avatar-v3_0" group-title="RELIGI" ,MADANI TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGI", KHAZANAH TV
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/NAAJIYA_TV.png" group-title="RELIGI" ,NAAJIYA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch7.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BINA_MADANI_TV.png" group-title="RELIGI" ,BINA MADANI OFF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch20.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/NAAJIYA_TV.png" group-title="RELIGI" ,NAAJIYA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch7.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png" group-title="RELIGI" ,MTA HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MTA_TV.png" group-title="YT" ,MTA HD OFF
 https://ythls.kekikakademi.org/youtube/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 #https://ythls.armelin.one/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGgWbYH/SRBTV.png" group-title="RELIGI" ,SRB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGgWbYH/SRBTV.png" group-title="YT" ,SRB OFF
 https://ythls.kekikakademi.org/youtube/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 #https://ythls.armelin.one/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KC-XcmKw1a2Yb1lf3WXZieK1oQ7t-bGMFuO2b4cREJ-d9nz6UNKo3ZSUas8E-4f5TpjF=w240-h480-rw" group-title="RELIGI" ,KHB
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KC-XcmKw1a2Yb1lf3WXZieK1oQ7t-bGMFuO2b4cREJ-d9nz6UNKo3ZSUas8E-4f5TpjF=w240-h480-rw" group-title="YT" ,KHB OFF
 https://ythls.kekikakademi.org/youtube/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 #https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pL-RMtUp0d5_y8gw-HaR9UzyPUUUfK_RZNdk8gM6uTbLJ7eo1IDR5WnAKhYISyRsm6cs9sMx0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,GAZWAH TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pL-RMtUp0d5_y8gw-HaR9UzyPUUUfK_RZNdk8gM6uTbLJ7eo1IDR5WnAKhYISyRsm6cs9sMx0A=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,GAZWAH TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MARHABAN TV OFF
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,MARHABAN TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
 #https://ythls.armelin.one/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TARBIYAH SUNNAH
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj" group-title="YT" ,TARBIYAH SUNNAH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 #https://ythls.armelin.one/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="RELIGI", UFA TV HD
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="YT", UFA TV HD OFF
 https://ythls.kekikakademi.org/youtube/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="YT" ,LIVE MAKKAH OFF
 https://ythls.kekikakademi.org/youtube/video/Kt7hKHlArl8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,LIVE MADINAH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="YT" ,LIVE MADINAH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuO9InXpa7jD6xvGWYIuwZxzTSm4opVW9LIZifOA=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MTA INTERNATIONAL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuO9InXpa7jD6xvGWYIuwZxzTSm4opVW9LIZifOA=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,MTA INTERNATIONAL OFF
 https://ythls.kekikakademi.org/youtube/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_fYMMroSln1Bna7JgzCIy-TfqxnjYwENndjdU2FIgtUvDcvl-H5zxqtp1MkdhhLZxBFGd1s7Gg=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,MAFAZA TV EVENT ONLY
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_fYMMroSln1Bna7JgzCIy-TfqxnjYwENndjdU2FIgtUvDcvl-H5zxqtp1MkdhhLZxBFGd1s7Gg=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,MAFAZA TV EVENT ONLY OFF
 https://ythls.kekikakademi.org/youtube/channel/UCw2g4x5EiIzt7-hMj3OhWQQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SLO1BHsozTukU3bf5gNmnQOn59jiwRSukJ4hiV9LYHXVoXioLu9hLyN1qibaK_3aFbtKbSyU2A=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,KISAH QURAN EVENT ONLY
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SLO1BHsozTukU3bf5gNmnQOn59jiwRSukJ4hiV9LYHXVoXioLu9hLyN1qibaK_3aFbtKbSyU2A=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,KISAH QURAN EVENT ONLY OFF
 https://ythls.kekikakademi.org/youtube/channel/UCLxetTGPN9yOn1gS1gClYgw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,LAFADZ DOA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,LAFADZ DOA OFF
 https://ythls.kekikakademi.org/youtube/channel/UCN2ySyRgxARVmENnOZ70rbg.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9tHnuUDsT-txQ6NAabJAziPdmJ4NaZ0ujtbQ4nCHr9zcpT8Wzmp38j1xjdy08kfIQA" group-title="RELIGI" ,RIKO MURROTAL LIVE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9tHnuUDsT-txQ6NAabJAziPdmJ4NaZ0ujtbQ4nCHr9zcpT8Wzmp38j1xjdy08kfIQA" group-title="YT" ,RIKO MURROTAL LIVE OFF
 https://ythls.kekikakademi.org/youtube/channel/UCHzkGRP2y-3QJQWzVkHNGgg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g9xNRxAnDVRSFpYYtMF_eYfqY4-_JrUXLtlKwKE5CmVBV7t6_if7q5iUsPLDa4Ffa6U7k8n9=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,SEYEGAN TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g9xNRxAnDVRSFpYYtMF_eYfqY4-_JrUXLtlKwKE5CmVBV7t6_if7q5iUsPLDa4Ffa6U7k8n9=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,SEYEGAN TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC3TZXKcQ64uCtFWksEfIw0w.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98su7Yn0wuDnrRTEk5X5iktMZexBLztjbc1S773XPzCSbh-VwpBa4sv5fe9itpzU34ODtxsc=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ZAD TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98su7Yn0wuDnrRTEk5X5iktMZexBLztjbc1S773XPzCSbh-VwpBa4sv5fe9itpzU34ODtxsc=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ZAD TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D7J8o5VJuSvIomIAQkNHKmJfU1d1PGdsucIAFngN8QUov3vA2usaGuK6Hxn8sXL9wbiTNF6Ojw=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,AL HADATH
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D7J8o5VJuSvIomIAQkNHKmJfU1d1PGdsucIAFngN8QUov3vA2usaGuK6Hxn8sXL9wbiTNF6Ojw=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,AL HADATH OFF
 https://ythls.kekikakademi.org/youtube/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6wh3wbMTas_FiOfcuyU-a-PSL62aeOzoNM-MDyJiUIr8HfINr_kqQlMvgYpjdi5hkVJMR7oo=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,SKY NEWS ARABIA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6wh3wbMTas_FiOfcuyU-a-PSL62aeOzoNM-MDyJiUIr8HfINr_kqQlMvgYpjdi5hkVJMR7oo=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,SKY NEWS ARABIA OFF
 https://ythls.kekikakademi.org/youtube/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3fhJuczWLOOK0Jl5C54_JzyEJNJWg4C0ilpPv2KZX3kuDYwxA5y4ddyfMA95g7YlKvJAHwvUc6A=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,AL ARABY TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3fhJuczWLOOK0Jl5C54_JzyEJNJWg4C0ilpPv2KZX3kuDYwxA5y4ddyfMA95g7YlKvJAHwvUc6A=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,AL ARABY TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1Lqx8C_-6YmlYZJzuO4LF9mwSG86PZCcILvPF=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ASHARQ NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1Lqx8C_-6YmlYZJzuO4LF9mwSG86PZCcILvPF=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ASHARQ NEWS OFF
 https://ythls.kekikakademi.org/youtube/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALJAEERA MUBASHER
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALJAEERA MUBASHER OFF
 https://ythls.kekikakademi.org/youtube/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQMCQE2zTAa5kdtkslPMZ1Nm1ipEu4wCkFCJAr=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALHURRA TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQMCQE2zTAa5kdtkslPMZ1Nm1ipEu4wCkFCJAr=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALHURRA TV OFF
 https://ythls.kekikakademi.org/youtube/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRmgJoxbcttRENxM66RKMhH7kX1UIOvYMehVQFiw=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,ALHURRA IRAQ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRmgJoxbcttRENxM66RKMhH7kX1UIOvYMehVQFiw=s176-c-k-c0x00ffffff-no-rj" group-title="YT" ,ALHURRA IRAQ OFF
 https://ythls.kekikakademi.org/youtube/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGI" ,TV 10 HD
-https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
 
 
 
@@ -509,14 +516,14 @@ https://thedream.biz.id/live/endosiar.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" group-title="NASIONAL",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" group-title="NASIONAL", ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" group-title="NASIONAL", ANTV 1
@@ -526,7 +533,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co.com/bBsDyTs/RCTI.png" group-title="NASIONAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -545,13 +552,13 @@ https://thedream.biz.id/live/esceteve.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co.com/P9ZbzDW/GTV.png" group-title="NASIONAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co.com/RPYZ0Ln/TRANS7.png" group-title="NASIONAL ",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
@@ -570,7 +577,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co.com/0fgvHSK/TRANSTV.png" group-title="NASIONAL",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
@@ -584,7 +591,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co.com/6FBywQv/RTV.png" group-title="NASIONAL", RTV 1
@@ -619,13 +626,13 @@ https://thedream.biz.id/live/ochannel.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" group-title="NASIONAL", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co.com/pPHpZf8/METROTV.png" group-title="NASIONAL",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
  
@@ -649,14 +656,14 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
  
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" group-title="NASIONAL",iNEWS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" group-title="NASIONAL",iNEWS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" group-title="NASIONAL",iNEWS 5
@@ -680,7 +687,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://i.ibb.co.com/L0J4pph/MGN.png" group-title="NASIONAL",METRO GLOBE TV
@@ -692,7 +699,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-id="25" tvg-logo="https://i.ibb.co.com/T016tjT/DAAITV.png" group-title="NASIONAL",DAAI TV
@@ -700,7 +707,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co.com/YdvzZ4L/NUSANTARATV.png" group-title="NASIONAL", NUSANTARA TV
@@ -770,7 +777,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533f
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://i.ibb.co.com/XtkPfcL/IMC.png" group-title="FILM",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
@@ -2878,7 +2885,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png" group-title="VISION+",Metro TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3013,7 +3020,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/980/49980-SNAPSHOT-m.png" group-title="VISION+",Cinemachi Action HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
