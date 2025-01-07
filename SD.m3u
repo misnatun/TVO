@@ -234,7 +234,8 @@ https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMdp1LGyMemail3SzBwJz3SnF4wQLjkZ3Jp1nnuqRDM_d2VR6H1NhnNNNMu4XRKAPMTEmsgtbGJUEnBZD-TTfaiA4V59ZAMg3r-dQHHn62_xI72ToOJgAFFfzrXi9IuEU3rZ4nMDDiLSrPb0kmJ-lFB1y5zyjKpVH1oDNW7keYy_i-aRHvUngk1qmCsOl/s700/RASYAAD%20TV.png" group-title="RELIGI" ,RASYAAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch6.m3u8
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+#https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAm7oLO8SCnM9HIBwxe-y-ex-Est9GQvoHCA4heO4dLUQDOHLiCQGCaHDI6AkoryJUEwfHZd0wxb36xX3fEyRFDX0L90aqbWC6DmlJyaAGBKwBxvXcd4-VStdYGotzxxOfdT97Njz6WpjYaX6FIDSloogNkOL6qcSvZVBXuqEeC5uefjLHC2R2AngUwpdK/s700/TV%20SUNNAH.png" group-title="RELIGI" ,TV SUNNAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
