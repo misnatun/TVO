@@ -953,22 +953,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="FILM",CELESTIAL CLASSIC MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="CCM" tvg-logo="https://i.ibb.co.com/n7TTkzw/CELESTIALMOVIE.png" group-title="FILM", CELESTIAL MOVIES HD
+#EXTINF:0 tvg-id="CCM" tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/n7TTkzw/CELESTIALMOVIE.png" group-title="FILM",CELESTIAL MOVIES HD #1
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="3. FILM",CELESTIAL CLASSIC MOVIES #1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co.com/n7TTkzw/CELESTIALMOVIE.png" group-title="FILM", CELESTIAL MOVIES HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co.com/MkdpVzb/MYCINEMA.png" group-title="FILM",MY CINEMA HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
