@@ -6,13 +6,14 @@
 ====== RELIGI ======
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_SUNNAH_NABAWI.png" group-title="RELIGI" ,LIVE MADINAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_QURAN_KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJoZMyD9mdtqyud4qQbirn17OB-XdGRYKIpxtzh6Msi8ot4ZwwHOxvgt39ZNxNvyWd3USWTNlrBpYPXWXW0g-vCiva8WjdY6hUlB9SkP0561zAPL8UbhQMvEi0z0FP_sRnM3px5gfFLLjN6wjsW6BEdwLvraR7W1qLGiN6lWQ-AScp0Ti4LfBWiNnPAe1A/s500/AL%20QURAN%20AL%20KAREEM.png" group-title="RELIGI" ,LIVE MAKKAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOzl13I8PVarK_Im29m4s5-ur4kfVUPr_r4z0xyqnzHvmtGAPQ54QRhARnw60Yw0jqm3RfvVsqdK1V-X9QO4hAnp4dghiVYaJTU2uZ9gx9NF5wmx5XfVhM1zUVhgMmrxceL7XywHi_CJikxEti9vrnjqWzlEuLVcdY-YZ6q_Iqy8QeMQ6OIAFvDj9VypWt/s500/AL%20SUNNAH%20NABAWIYAH.png" group-title="RELIGI" ,LIVE MADINAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsXRxHQd/DEIKIDSTV.png" group-title="RELIGI" ,DEI KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -45,7 +46,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TV9.png" group-title="RELIGI" ,TV9 HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPXm1dKhSwSTmnxS6cz5m2m1xOtiw-nU6erqZFBqDn5yA1j7B8RW9_gpaNfbFz5x2dQJp4qMnh3dkTnscwEDL4YGmMU6v3XIGzU45GplYGPbaPemQJ7L4EorVEYDmYmrev0yjoJ9HgwSgAmuYfa6WV1qpaMRDTi5guvA6h8cMon-sneMKbgeT2Ozr3w90H/s500/TV9.png" group-title="RELIGI" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD
@@ -58,30 +59,30 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/TVMU.png" group-title="RELIGI" ,TVMU HD #1
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIxiyS4RN27waman5UVtqY1_fXT9AR4lZl5MSSMT_VKSVW9oQLZI2cOECDEwhAn98WdXw1SN21B8qon2J0VWUSTeiBM-eY0T3mdGIGpkW5eOuUHQdSUEjyzyJAPoCymRuiT0H4QHf1EYkjfW_WUlx6owT-mVn6fcGnmhajb7U2acoCmT1YY22hlLbJ4dO/s500/RODJA.png" group-title="RELIGI" ,RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://flv.intechmedia.net/live/ch26.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/RODJA_TV.png" group-title="RELIGI" ,RODJA TV #1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIxiyS4RN27waman5UVtqY1_fXT9AR4lZl5MSSMT_VKSVW9oQLZI2cOECDEwhAn98WdXw1SN21B8qon2J0VWUSTeiBM-eY0T3mdGIGpkW5eOuUHQdSUEjyzyJAPoCymRuiT0H4QHf1EYkjfW_WUlx6owT-mVn6fcGnmhajb7U2acoCmT1YY22hlLbJ4dO/s500/RODJA.png" group-title="RELIGI" ,RODJA TV #1
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BRTV.png" group-title="RELIGI" ,BRTV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTIWUqUKemowt08vHCQNI6vcFmRHZ-ywwqZcZkF-xk7_EM3zTb_zQunsOq4IsCX5tvg3K0n6gK5FDP1wX3J_r75TR4m2r1lo3dJQu3MtpAjCuEC66KayGctjloz5rH96s7OODlUAhowtoIP3AWgw7VOYIVbxp6PMJTrDCyFYtlePJctIgn-0R4p-3jZM59/s500/BRTV.png" group-title="RELIGI" ,BRTV HD
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_WAFA.png" group-title="RELIGI" ,AL WAFA TARIM
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGnsA5NBrE6jgxnzjOfG891T22dUW2LsvdJtiXkVMf-_esexYEqiUfnWDfETkqOgXIWKcEx9RDvpo0fKEqhE0ntVPHK_vupWWIwWXaXfS4DMmuXL7ppy9-sC-847u0nfX_BtTh4z5ixbmCBxuQGRkLDI-KRuoL7MV9k97DgLSWKA6H5sXhrYcXDEIQDSXi/s500/AL%20WAFA%20TARIM.png" group-title="RELIGI" ,AL WAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MQTV.png" group-title="RELIGI" ,MQTV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisyp4379vMQtPyxceqwyjt5gOXfVU-J9KLEqTx-lwPcaK1TDDv2oKFpH18dmFUTS08LF0yVGIJkaRcEXl85msbXXwbFeQEP8WRO6_Cdfb0kCk6JdWS6JFlWkCuvF4_K02DfuZ3-NciiuZsJdjIOKZXj7TKsJFGf0Edkl6OrAYBd9XPb0etvgd4KEHOdDtE/s500/MQTV.png" group-title="RELIGI" ,MQTV HD
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/INSPIRA_TV.png" group-title="RELIGI" ,INSPIRA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4cOfu2ycPkQTbvCOS028NLSnxoMhJtWbA4mjX9fjuysd5AhGT0zB53vwfbFa5EGBus65eyKjEdK27Rfu0bJr7QscNlqVcH8m5KZm3FDA8_kDxe0oDzR7Kl863RU_KLXStXoKldrpW2SlYOmijJ-HooP3AuC-kW9DGR6SBA_z_J4sisaGSNu5y3ukW9XKc/s500/INSPIRA%20TV.png" group-title="RELIGI" ,INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/WESAL_TV.png" group-title="RELIGI" ,WESAL TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEDfZXV6cwdU8a-cMVGzM9CUh7pCt0NZl7JlnVdntwn9BuQi8nsW819Kb2XyxVa_-VH1id2AXR0ApvaMo_rHTyUjAY05kYH01DWZrJ_ld5ukRWtnp6yxuvVaXm6aX5pA0PkcFC_whjBLjsaZDQNiflTZItbA2kw_ibpzvQhMKsrtbbuNr2AFpWD3d1IKh0/s500/WESAL%20TV.png" group-title="RELIGI" ,WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/ARTVISI.png" group-title="RELIGI" ,ARTVISI AUDIO
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLXfRhA5dIQRpkTRrr4fS7XTg0zDTMgDnXKc18wj9Oe4DdwAaHm5vKRgZ6_v7yQkgonMHmxtjDzKwfK6PvN1XHsFdljUF8HmZIFHCylnJ1trvBMAtyP3itfVCipEJlbX0GGfQaZqVOrbXheDcVPuh_oyNLT0sS0Z4cYwGRrNEefBbFYdu4F1-OFe99g3Z/s500/ARTVISI.png" group-title="RELIGI" ,ARTVISI AUDIO
 https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/04/07/04/48/calligraphy-7116788_640.png" group-title="RELIGI" ,INJANI TV
@@ -96,58 +97,58 @@ https://flv.intechmedia.net/live/ch31.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch30.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/INSAN_TV.png" group-title="RELIGI" ,INSAN TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZkrFN9IqxdOXq9VcPNcZLNVVmlTH_8Gt32BgUrGdWjuv-mk0tGpx7ZZ1F23D-j2x8d59VU0pdInliC1zkeBWOisJEaA8chtRQpRGzFhuU0lekOac3pEj3dQpaV8_9t3mBZ0ZweBZAuC1HgGU6iVxT4Jbvn8l6Cp6Hl6w44Ak8l66twY7OViUSK7dLR-3K/s500/INSAN%20TV.png" group-title="RELIGI" ,INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/ASHILL_TV.png" group-title="RELIGI" ,ASHIIL TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBoqegbTMCCc8NmOmaeY8JHxKLeQCNPIW5wHskn7psuh6VlF1hg3J0Ktnfif1ROdzdCxUsvAOgmfrATRgiNRj3UWgWrKdqSg8d9ujon7oURdCj1DVlX29u5qRg_hYTQRoygCIdWlo8h6_6HrEp-ade2VziMjpCfdpdiJTPZ8kJ79OGSp06OK3iR2WWb4v/s500/ASHILL%20TV.png" group-title="RELIGI" ,ASHIIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/SURAU_TV.png" group-title="RELIGI" ,SURAU TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR7gtu854kKayIxN3Cl3oDUCy0I6Amd6i14Oq5mPqKIM34AOrwvTs0j-wIOlrPowEA8_UZUn2-ZphsiBYqoXLM5BsukjD3xxpYFekpdinQiwlZ4Z57qX_BP09mExAuorS1jXKpbV2Z1NKCpVTCPfqE40U_7jBYfFTfcdo9qDONjZO6oDhGJPXu7yA315Sp/s500/SURAU%20TV.png" group-title="RELIGI" ,SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AHSAN_TV.png" group-title="RELIGI" ,AHSAN TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoaehOaBcJYs3M4sY1yu8c6Aw2cOT0ZuWLIDwtOMAEFd8b2jVSpQuyeiVtpZ3EPrm6IEDaWVrIHstoIcDWTPWr4nSoF8hhFM3nuiG7IpXcMdhiXsrI_Zs9UASFUaHRfB6CYnpK9NLamZVflpVwCulOk5a2fFS6WTtGe4Qhnai1RMh-rVWsibiePi9h9dSo/s500/AHSAN%20TV.png" group-title="RELIGI" ,AHSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MUADZ_TV.png" group-title="RELIGI" ,MUADZ TV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWxzkAP4TpRkaSg_FnEWpCg2U3AdIVrYHOiwTuO8wd7i8F_4ug2zF4UdyjSO5IPK_1preFFXakqRPOMvVRlNS7UQcLAmTPI2T-M0K8kS_EAUChyphenhyphenEN2Pjj0yhYt_tzqGWVlaZTj-I_-uPjLqcT_QTKgSF2Ynv4hnwKj7NdHH8KmZpzey-fAD3-Nj9VvsPJm/s500/MUADZ%20TV.png" group-title="RELIGI" ,MUADZ TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png" group-title="RELIGI" ,HIJRAH TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjtUDn0kkeg5NgdV8d564yC3LIxJKPaMy8Awg42fYEZzB0k_oB8QDyoMeBnJ1pwO_2Kz1286pIXgnt-P-R5nKWf17TXWa9hT3t7A8TZMb9B2jNCJioDAUnTN7bSqmfmVMypXhHtbuGjwIWXZoNJpUwtIgHyxEWYuL1s26_iVXtat8lZ4uw0k0YnHvteTE/s500/HIJRAH%20TV.png" group-title="RELIGI" ,HIJRAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/AL_IMAN_TV.png" group-title="RELIGI" ,AL IMAN TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlUU6ORRnY6Isy8adkxwKtUom_2VVkpGbOvfwi6scHriVUWfC4fgEmkcrUDiUeS844KWDmb7sUb2DI2CZvOfG_FPOiO5D2MdAMLGWfKNV5LMAMSGhyphenhyphenFJmDMB7Ufzu-EtVS_HKG-IBiEj6CHfBtiJrqnj2GK3KrACCcmXUolqZSrxfYiGdUmL5Yd_NaHTeo/s500/AL%20IMAN%20TV.png" group-title="RELIGI" ,AL IMAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch9.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/NIAGA_TV.png" group-title="RELIGI" ,NIAGA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrtBX93sNmf2QxjwpAe70B_rPtOe7Gw3DYlCdmhUXZp-mQeBIE8qfKRvSdqm8pAxTDkp7-80H0g1EoRP3F63C5LdW_0DNzJjG9YYx0csooL3Mlr1-t84iwyc3IoLW6bdBVczSOVHV1U0_mxcZMx9YEzW6Aa4k3uvciRBF2bBtKORof1HbDyLDVewvUOEfF/s500/NIAGA%20TV.png" group-title="RELIGI" ,NIAGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch10.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/PULDAPII_TV.png" group-title="RELIGI" ,PULDAPII TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pcRd0cxSmxuX706EB0cFSjUCpgA8aKhL_3TQAtV0LzkiLL3si6b9NRRPSAQRNmGpmrDgk0v4FB-bEjoqcMvJQvp2L76DzxefwwNTt9jYzJDF_hVldknfSDsQvsRm5yodmBrxGeWVsLMMTl6SDPP1M7JWA8r_S4iMv7ohTpdmeLwv9wrAFysU8D5iJUcC/s500/PULDAPII%20TV.png" group-title="RELIGI" ,PULDAPII TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch15.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png" group-title="RELIGI" ,BIN BAZ TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2x6i5rFGEemRnKe2JdeocoKFxEckbdqyW_KiO2pR7dNcSpGkR1bZCkDWqrtIDEhBdsVBODvrSCSTdT30Du57mjZc__w4Q4GGhF2JmlAPlXgU2ZipxZgNz_91ksPWlf0rorhc47BK4DMICO4pCQKLLV-Nk9V5Gt0qhHnZawI4Lv-6A60T8YzI9aLWzuwV/s500/BINBAZ%20TV.png" group-title="RELIGI" ,BIN BAZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch22.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png" group-title="RELIGI" ,MEDS TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-rUEtnswey_c8eB_ACzOiMXvXFM8WLCrce2sbTwzGWtds7QLLRYdRBRORHKJ6geI6dhlALBAlKSOTKPbc5XOJh2-cZ8XHcK2wEmW_hb37yC_x_In56KrqEnpIsDUJhFXjjTu32wj9MuCgA_O2P23v4gOK8k9ZBwdtm9HSTEkHaursAa1fxjEw__A_eSp9/s500/MEDS%20TV.png" group-title="RELIGI" ,MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png" group-title="RELIGI" ,MGI TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSDfiFWhCwSEEYiJhAvh-Pege_0NBVq19P6u9zgI9png3QAMCHZCOMDWg17zrwOjfP4sJaCFDJH5Z66-yfhBv6q_AaJtOmzvxuixlpSkJv_Gnxp0XmeMb8Dy6YF7yoDTdQ8YeHKC15YmDpNC2ezAi0Hh5w5GHhk6dtytU7OKjFd01V0df3KArZCh9b80Yo/s500/MGI%20TV.png" group-title="RELIGI" ,MGI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch25.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/IZZAH_TV.png" group-title="RELIGI" ,IZZAH TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2TrN-PivICo9mtvoJvEp8f6xciobyZ0WcfZFZbmUbQ7Q-9gzrk3RIQEolepT9WGgDQifo0Nm3bwI7SLHacjoeBLje63JT9AKNlwG1E3Xt-9mej_Ly48YiaX3yhyKVwqSL-wUgt0r01WaZTy5pO-11qQP_1IJFKj0zhaxc6y2OH2BAdUGoPWsYbmivOY6/s500/IZZAH%20TV.png" group-title="RELIGI" ,IZZAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch28.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/misnatun/channels/main/SJP_TV.png" group-title="RELIGI" ,SJP TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYntx83Pq7R0ALJX8vviZvSjcDkMb5zXsMO-vwKxb1lnRPowN8U_cWrzrga5GE7EKhAyT1p5at8pGY1KAGXdJGERcUuXhDxYOv3n9chrXr442w7TTNETPwQoaWasBvei2UxCtZ3TnpytfupIhhjGbZavFMBBH_4Z9MyM_PWFrtj_XHFWHcZfrGRj4Po1Qs/s500/SJP%20TV.png" group-title="RELIGI" ,SJP TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch17.m3u8
 
