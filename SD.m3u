@@ -960,11 +960,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="3. FILM",CELESTIAL CLASSIC MOVIES #1
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="FILM",CELESTIAL CLASSIC MOVIES #1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-id="110" tvg-logo="https://i.ibb.co.com/XpJSL5G/CCM.png" group-title="FILM", CELESTIAL CLASSIC MOVIES #2
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co.com/n7TTkzw/CELESTIALMOVIE.png" group-title="FILM", CELESTIAL MOVIES HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
