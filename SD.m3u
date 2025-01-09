@@ -300,6 +300,15 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png"",RADIO AL IMAN
 https://radioislamindonesia.com/aliman.mp3?_=2
 
+#EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_deifm.png"",RADIO DEI FM
+https://live.radiodeifm.com/8118/stream;?1736405447503
+
+#EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/images/hijrahbanner.png"",RADIO HIJRAH FM
+https://streaming.hijrahfm.com/;?1736409831439
+
+#EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/images/radiomuslimjogja.jpg"",RADIO MUSLIM JOGJA
+https://streaming.radiomuslim.com/;?1736409962231
+
 #EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/tarbiyah.png"",RADIO TARBIYAH SUNNAH
 https://radioislamindonesia.com/tarbiyah.mp3?_=1
 
