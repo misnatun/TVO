@@ -301,7 +301,7 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 https://radioislamindonesia.com/aliman.mp3?_=2
 
 #EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/tarbiyah.png"",RADIO TARBIYAH SUNNAH
-https://api.instant.audio/data/playlist/57/tarbiyah
+https://radioislamindonesia.com/tarbiyah.mp3?_=1
 
 #EXTINF:-1 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/shahabat.png"",RADIO SAHABAT
 https://radioislamindonesia.com/shahabatmuslim.mp3
